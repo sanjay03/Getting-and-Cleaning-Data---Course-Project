@@ -16,7 +16,7 @@ date: "October 26, 2015"
 
 Setwd()
 
-loading features and activity labels
+#loading features and activity labels
 
 features - contains the data from features.txt
 activity - conatins the data from activity.txt
